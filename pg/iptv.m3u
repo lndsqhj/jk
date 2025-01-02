@@ -124,7 +124,7 @@ http://[2409:8087:74d2:21::9]/270000001128/9900000020/index.m3u8
 http://[2409:8087:74d2:21::9]/270000001128/9900000022/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺甘肃移动IPV6",NewTV欢乐剧场
 http://[2409:8087:74d2:21::9]/270000001128/9900000091/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="甘肃移动IPV6",NewTV东北热剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺甘肃移动IPV6",NewTV东北热剧
 http://[2409:8087:74d2:21::9]/270000001128/9900000092/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺甘肃移动IPV6",NewTV炫舞未来
 http://[2409:8087:74d2:21::9]/270000001128/9900000098/index.m3u8
