@@ -662,9 +662,9 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 
 
 🎬电影频道,#genre#
-邵氏影院台,http://8.138.90.107/公众号【睡眼迷离的猫】/douyu.php?id=4246519
-邵氏影院台,https://www.goodiptv.club/douyu/4246519
-咪咕电影院,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1599032126_-227250245/wd_r2/virtuallive/5100180869/150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073749&ContentId=265219029&timezone=UTC&mtv_session=f358762bcdc0d98e6da17359ed6dc2d2&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8daf635846c7955213792b55f33b0ed4
+邵氏影院,http://8.138.90.107/公众号【睡眼迷离的猫】/douyu.php?id=4246519
+邵氏影院,https://www.goodiptv.club/douyu/4246519
+咪咕电影,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1599032126_-227250245/wd_r2/virtuallive/5100180869/150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073749&ContentId=265219029&timezone=UTC&mtv_session=f358762bcdc0d98e6da17359ed6dc2d2&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8daf635846c7955213792b55f33b0ed4
 新片放映厅,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1600732348_-360169236/wd-virtuallive5100030975-150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073750&ContentId=265218930&timezone=UTC&mtv_session=63000e2fea84d8a6504746c34e7d4d75&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b6ef40cfda8ddfec090a09afb9dd2444
 动感地带台,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1597833161_-605154292/wd_r2/virtuallive/5102010211/150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073747&ContentId=265667553&timezone=UTC&mtv_session=fd80809f3f6b51a68ca8e0d327a5244a&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=31de3cf7ce30887e13ddcfcdd39350a2
 高清大片台,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1598749465_-366256696/wd_r3/cctv/gaoqingdapian/600/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073748&ContentId=265218862&timezone=UTC&mtv_session=3a6b1c7737e83442360bc74c1db28160&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6c0357e0703b1ce5780f688addd61842
@@ -683,7 +683,6 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 CHC家庭影院,http://39.165.81.230:85/tsfile/live/1059_1.m3u8?key=txiptv
 CHC动作电影,http://39.165.81.230:85/tsfile/live/1060_1.m3u8?key=txiptv
 CHC影迷电影,http://39.165.81.230:85/tsfile/live/1061_1.m3u8?key=txiptv
-搞笑恐怖,http://iptv.com.gerss.cn/huya/11601960 
 周星驰,http://huanqiuzhibo.cn/manifest/douyu.php?id=122402 
 好先生,http://huanqiuzhibo.cn/manifest/douyu.php?id=9650792 
 庆余年,http://huanqiuzhibo.cn/manifest/douyu.php?id=5908256 
@@ -743,11 +742,8 @@ CHC影迷电影,http://39.165.81.230:85/tsfile/live/1061_1.m3u8?key=txiptv
 经典剧集,http://huanqiuzhibo.cn/manifest/douyu.php?id=686336
 
 🎬虎牙①,#genre#
-player=2
 周星星,http://itv.666230.xyz/huya/11336587 
 周星星,http://dns.yiandrive.com:16813/huya/11336587
-搞笑恐怖,http://8.138.90.107/公众号【睡眼迷离的猫】/huya.php?id=11601960 
-搞笑恐怖,http://iptv.com.gerss.cn/huya/11601960 
 周星星,http://8.138.90.107/公众号【睡眼迷离的猫】/huya.php?id=11336587 
 小鬼头,http://8.138.90.107/公众号【睡眼迷离的猫】/huya.php?id=11352963 
 刘德华,http://8.138.90.107/公众号【睡眼迷离的猫】/huya.php?id=11342424 
@@ -828,8 +824,6 @@ player=2
 电影_刘德华,https://live.metshop.top/huya/11342424
 
 🎬虎牙②,#genre#
-player=2
-搞笑恐怖,http://211.101.234.24:68/公众号猫月牙/huya.php?id=11601960 
 周星星,http://211.101.234.24:68/公众号猫月牙/huya.php?id=11336587 
 小鬼头,http://211.101.234.24:68/公众号猫月牙/huya.php?id=11352963 
 刘德华,http://211.101.234.24:68/公众号猫月牙/huya.php?id=11342424 
@@ -911,16 +905,10 @@ player=2
 
 
 🎬斗鱼①,#genre#
-player=2
-林正英 1,http://itv.666230.xyz/douyu/7356023
-林正英 1,http://zzy789.xyz/douyu1.php?id=7356023
-林正英 2,http://zzy789.xyz/douyu1.php?id=218859
 斗鱼频道,http://zzy789.xyz/douyu1.php?id=8770422
 斗鱼频道,http://zzy789.xyz/douyu1.php?id=218859
 斗鱼频道,http://zzy789.xyz/douyu1.php?id=413573
 斗鱼频道,http://zzy789.xyz/douyu1.php?id=9292492
-鬼片恐怖,http://zzy789.xyz/douyu1.php?id=2935323
-恐怖故事,http://zzy789.xyz/douyu1.php?id=2337939
 怡寳影院,http://zzy789.xyz/douyu1.php?id=434971
 粤语电影,http://zzy789.xyz/douyu1.php?id=6566671
 苹果影院,http://zzy789.xyz/douyu1.php?id=2793084
@@ -929,7 +917,6 @@ player=2
 蚂蚱影院,http://zzy789.xyz/douyu1.php?id=6079455
 纪录片,http://zzy789.xyz/douyu1.php?id=4360438
 贝爷求生,http://zzy789.xyz/douyu1.php?id=454867
-恐怖丧尸鬼片,http://zzy789.xyz/douyu1.php?id=263824
 斗鱼电影10,http://zzy789.xyz/douyu1.php?id=2935323
 斗鱼电影22,http://zzy789.xyz/douyu1.php?id=1979257
 斗鱼电影26,http://zzy789.xyz/douyu1.php?id=8413092
@@ -963,9 +950,6 @@ player=2
 
 
 🎬斗鱼②,#genre#
-player=2
-林正英 1,http://211.101.234.24:68/公众号猫月牙/douyu.php?id=7356023
-林正英 2,http://211.101.234.24:68/公众号猫月牙/douyu.php?id=218859
 斗鱼频道,http://211.101.234.24:68/公众号猫月牙/douyu.php?id=8770422
 斗鱼频道,http://211.101.234.24:68/公众号猫月牙/douyu.php?id=218859
 斗鱼频道,http://211.101.234.24:68/公众号猫月牙/douyu.php?id=413573
