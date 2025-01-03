@@ -1,55 +1,55 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🚀4K频道",Love_Nature_4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺4K频道",Love_Nature_4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🚀4K频道",Loupe_4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺4K频道",Loupe_4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🚀4K频道",Fashion_4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺4K频道",Fashion_4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="🚀4K频道",纯享4K
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="📺4K频道",纯享4K
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
-#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="🚀4K频道",纯享4K
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="📺4K频道",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🚀4K频道",欢笑剧场4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺4K频道",欢笑剧场4K
 http://[2409:8087:5e08:24::17]:6610/000000001000/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🚀4K频道",欢笑剧场4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺4K频道",欢笑剧场4K
 http://111.29.9.34:6610/000000001000/1/1.m3u8?stbId=1&livemode=1&IASHttpSessionId=OTT760920241110011719006907&channel-id=bestzb&Contentid=5000000007000010001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🚀4K频道",华数4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺4K频道",华数4K
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="🚀4K频道",爱上4K
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="📺4K频道",爱上4K
 http://115.171.80.176:8888/udp/225.1.8.80:2000
-#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="🚀4K频道",爱上4K
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="📺4K频道",爱上4K
 http://171.107.73.129:4000/udp/239.81.0.123:4056
-#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="🚀4K频道",爱上4K
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="📺4K频道",爱上4K
 http://182.138.237.24:4022/udp/239.93.0.97:5140
-#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="🚀4K频道",爱上4K
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="📺4K频道",爱上4K
 http://182.138.237.24:4022/udp/239.93.1.113:5140
-#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="🚀4K频道",爱上4K
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="📺4K频道",爱上4K
 http://182.138.237.24:4022/udp/239.93.1.251:8224
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🚀4K频道",4K私享家
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺4K频道",4K私享家
 http://221.198.194.158:8888/udp/225.1.1.156:5002
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🚀4K频道",4K影视频
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺4K频道",4K影视频
 http://221.198.194.158:8888/udp/225.1.2.190:5002
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🚀4K频道",百事4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺4K频道",百事4K
 http://114.83.223.132:9999/udp/239.45.1.42:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🚀4K频道",百事4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺4K频道",百事4K
 http://114.83.223.132:9999/udp/239.45.3.107:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🚀4K频道",4K超
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺4K频道",4K超
 http://119.125.134.232:9901/tsfile/live/1022_1.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="🚀4K频道",CCTV1
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺4K频道",CCTV1
 http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="🚀4K频道",CCTV3
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="📺4K频道",CCTV3
 http://223.105.252.59/PLTV/4/224/3221228499/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="🚀4K频道",CCTV5
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="📺4K频道",CCTV5
 http://223.105.252.61/PLTV/4/224/3221228502/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="🚀4K频道",CCTV8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="📺4K频道",CCTV8
 http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="🚀4K频道",CCTV4K
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="📺4K频道",CCTV4K
 http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="🚀4K频道",CCTV4K
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="📺4K频道",CCTV4K
 http://www.furymax.top:85/rtp/239.69.1.13:9718
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="🚀4K频道",CCTV16(4K)
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="📺4K频道",CCTV16(4K)
 http://39.134.136.161:6610/000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="🚀4K频道",CCTV16(4K)
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="📺4K频道",CCTV16(4K)
 http://223.105.252.59/PLTV/4/224/3221228314/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视IPV6",CCTV1
 http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8

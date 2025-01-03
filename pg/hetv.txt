@@ -1,4 +1,4 @@
-🚀4K频道,#genre#
+📺4K频道,#genre#
 Love_Nature_4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe_4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Fashion_4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
