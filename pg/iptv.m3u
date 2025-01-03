@@ -34,8 +34,6 @@ http://221.198.194.158:8888/udp/225.1.2.190:5002
 http://114.83.223.132:9999/udp/239.45.1.42:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺4K频道",百事4K
 http://114.83.223.132:9999/udp/239.45.3.107:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺4K频道",4K超
-http://119.125.134.232:9901/tsfile/live/1022_1.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺4K频道",CCTV1
 http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="📺4K频道",CCTV3
