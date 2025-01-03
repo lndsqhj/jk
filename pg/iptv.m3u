@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://epg.v1.mk/fy.xml"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺4K频道",Love_Nature_4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺4K频道",Loupe_4K
