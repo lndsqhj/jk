@@ -810,7 +810,7 @@ http://58.19.43.46:9901/tsfile/live/1001_1.m3u8?key=txiptv
 http://58.19.43.46:9901/tsfile/live/1003_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="📺卫视IPV4",广西卫视
 http://58.19.43.46:9901/tsfile/live/1004_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺卫视IPV4",旅游卫视
+#EXTINF:-1 tvg-id="旅游卫视" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="📺卫视IPV4",旅游卫视
 http://58.19.43.46:9901/tsfile/live/1005_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="📺卫视IPV4",河南卫视
 http://58.19.43.46:9901/tsfile/live/1006_1.m3u8?key=txiptv
