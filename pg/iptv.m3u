@@ -44,7 +44,7 @@ http://223.105.252.61/PLTV/4/224/3221228502/index.m3u8?servicetype=1
 http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="📺4K频道",CCTV4K
 http://www.furymax.top:85/rtp/239.69.1.13:9718
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8K.png" group-title="📺4K频道",CCTV8K
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.cn/tv/CCTV8K.png" group-title="📺4K频道",CCTV8K
 http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="📺4K频道",CCTV16(4K)
 http://39.134.136.161:6610/000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
@@ -804,7 +804,7 @@ http://58.19.43.46:9901/tsfile/live/1045_1.m3u8?key=txiptv
 http://58.19.43.46:9901/tsfile/live/1046_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="📺卫视IPV4",金鹰卡通
 http://58.19.43.46:9901/tsfile/live/1000_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺卫视IPV4",KAKU少儿
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="📺卫视IPV4",卡酷少儿
 http://58.19.43.46:9901/tsfile/live/1001_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="📺卫视IPV4",宁夏卫视
 http://58.19.43.46:9901/tsfile/live/1003_1.m3u8?key=txiptv
