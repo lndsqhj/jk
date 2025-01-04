@@ -19,9 +19,9 @@ Fashion_4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 CCTV1,http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?servicetype=1
 CCTV3,http://223.105.252.59/PLTV/4/224/3221228499/index.m3u8?servicetype=1
 CCTV5,http://223.105.252.61/PLTV/4/224/3221228502/index.m3u8?servicetype=1
-CCTV8,http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8?servicetype=1
 CCTV4K,http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8?servicetype=1
 CCTV4K,http://www.furymax.top:85/rtp/239.69.1.13:9718
+CCTV8K,http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8?servicetype=1
 CCTV16(4K),http://39.134.136.161:6610/000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
 CCTV16(4K),http://223.105.252.59/PLTV/4/224/3221228314/index.m3u8?servicetype=1
 
