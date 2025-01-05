@@ -1022,131 +1022,67 @@ http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000058/index.m3u8
 http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&yang-1989
 #EXTINF:-1 tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://epg.iill.top/logo/iHOT爱体育.png" group-title="🎬iHOT",iHOT爱体育
 http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&yang-1989
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬影视轮播",舌尖上的中国第1季
-https://lunbo.freetv.top/yy/1354930952
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬影视轮播",舌尖上的中国第2季
-https://lunbo.freetv.top/yy/1354930943
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬影视轮播",狂飙
-https://lunbo.freetv.top/yy/1355142167
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬影视轮播",天道
-https://lunbo.freetv.top/yy/1382735574
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬影视轮播",小欢喜
-https://lunbo.freetv.top/yy/1382737888
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬影视轮播",花千骨
-https://lunbo.freetv.top/yy/1354943110
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬影视轮播",红楼梦
-https://lunbo.freetv.top/yy/1382745084
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬影视轮播",寻秦记
-https://lunbo.freetv.top/yy/1382851591
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬影视轮播",知否知否
-https://lunbo.freetv.top/yy/21881901
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬影视轮播",笑傲江湖
-https://lunbo.freetv.top/yy/1354930909
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬影视轮播",天龙八部
-https://lunbo.freetv.top/yy/1351814644
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬影视轮播",神雕侠侣
-https://lunbo.freetv.top/yy/1351762426
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬影视轮播",变形金刚
-https://lunbo.freetv.top/yy/1382736803
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬影视轮播",国漫热播
-https://lunbo.freetv.top/yy/1353937086
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬影视轮播",宰相刘罗锅
-https://lunbo.freetv.top/yy/1382745191
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬影视轮播",少年包青天
-https://lunbo.freetv.top/yy/38498680
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬影视轮播",射雕英雄传
-https://lunbo.freetv.top/yy/1354210357
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬影视轮播",神医喜来乐
-https://lunbo.freetv.top/yy/1382714119
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬影视轮播",仙剑奇侠传
-https://lunbo.freetv.top/yy/1382749903
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬影视轮播",新白娘子传奇
-https://lunbo.freetv.top/yy/1354930969
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬影视轮播",康熙微服私访记
-https://lunbo.freetv.top/yy/1352811698
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬影视轮播",倩女幽魂人间道
-http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬影视轮播",倩女幽魂妖魔道
-http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬影视轮播",倩女幽魂道道道
-http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬影视轮播",周星驰电影
-http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
+
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 http://39.165.81.230:85/tsfile/live/1059_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://39.165.81.230:85/tsfile/live/1060_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",CHC影迷电影
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.cn/tv/CHC影迷电影.png" group-title="🎬电影频道",CHC影迷电影
 http://39.165.81.230:85/tsfile/live/1061_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",超级电视
+#EXTINF:-1 tvg-id="超级电视剧" tvg-name="超级电视剧" tvg-logo="https://epg.iill.top/logo/NewTV超级电视剧.png" group-title="🎬电影频道",超级电视剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",超级电影
+#EXTINF:-1 tvg-id="超级电影" tvg-name="超级电影" tvg-logo="https://epg.iill.top/logo/NewTV超级电影.png" group-title="🎬电影频道",超级电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",明星大片
+#EXTINF:-1 tvg-id="明星大片" tvg-name="明星大片" tvg-logo="https://epg.iill.top/logo/NewTV明星大片.png" group-title="🎬电影频道",明星大片
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",精品大剧
+#EXTINF:-1 tvg-id="精品大剧" tvg-name="精品大剧" tvg-logo="https://epg.iill.top/logo/NewTV精品大剧.png" group-title="🎬电影频道",精品大剧
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",精品纪录
+#EXTINF:-1 tvg-id="精品纪录" tvg-name="精品纪录" tvg-logo="https://epg.iill.top/logo/NewTV精品记录.png" group-title="🎬电影频道",精品纪录
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",金牌综艺
+#EXTINF:-1 tvg-id="金牌综艺" tvg-name="金牌综艺" tvg-logo="https://epg.iill.top/logo/NewTV金牌综艺.png" group-title="🎬电影频道",金牌综艺
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",中国功夫
+#EXTINF:-1 tvg-id="中国功夫" tvg-name="中国功夫" tvg-logo="https://epg.iill.top/logo/NewTV中国功夫.png" group-title="🎬电影频道",中国功夫
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",动作电影
+#EXTINF:-1 tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://epg.iill.top/logo/NewTV动作电影.png" group-title="🎬电影频道",动作电影
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",惊悚悬疑
+#EXTINF:-1 tvg-id="惊悚悬疑" tvg-name="惊悚悬疑" tvg-logo="https://epg.iill.top/logo/NewTV惊悚悬疑.png" group-title="🎬电影频道",惊悚悬疑
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",军事评论
+#EXTINF:-1 tvg-id="军事评论" tvg-name="军事评论" tvg-logo="https://epg.iill.top/logo/NewTV军事评论.png" group-title="🎬电影频道",军事评论
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",古装剧场
+#EXTINF:-1 tvg-id="古装剧场" tvg-name="古装剧场" tvg-logo="https://epg.iill.top/logo/NewTV古装剧场.png" group-title="🎬电影频道",古装剧场
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",爱情喜剧
+#EXTINF:-1 tvg-id="爱情喜剧" tvg-name="爱情喜剧" tvg-logo="https://epg.iill.top/logo/NewTV爱情喜剧.png" group-title="🎬电影频道",爱情喜剧
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",欢乐剧场
+#EXTINF:-1 tvg-id="欢乐剧场" tvg-name="欢乐剧场" tvg-logo="https://epg.iill.top/logo/NewTV欢乐剧场.png" group-title="🎬电影频道",欢乐剧场
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",热播精选
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",潮妈辣婆
+#EXTINF:-1 tvg-id="潮妈辣婆" tvg-name="潮妈辣婆" tvg-logo="https://epg.iill.top/logo/NewTV潮妈辣婆.png" group-title="🎬电影频道",潮妈辣婆
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",东北热剧
+#EXTINF:-1 tvg-id="东北热剧" tvg-name="东北热剧" tvg-logo="https://epg.iill.top/logo/NewTV东北热剧.png" group-title="🎬电影频道",东北热剧
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",重温经典
-https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",重温经典
-http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",重温经典
-http://mtw.so/5NPX0U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",咪咕电影
-http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1599032126_-227250245/wd_r2/virtuallive/5100180869/150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073749&ContentId=265219029&timezone=UTC&mtv_session=f358762bcdc0d98e6da17359ed6dc2d2&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8daf635846c7955213792b55f33b0ed4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",新片放映
-http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1600732348_-360169236/wd-virtuallive5100030975-150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073750&ContentId=265218930&timezone=UTC&mtv_session=63000e2fea84d8a6504746c34e7d4d75&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b6ef40cfda8ddfec090a09afb9dd2444
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",动感地带
-http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1597833161_-605154292/wd_r2/virtuallive/5102010211/150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073747&ContentId=265667553&timezone=UTC&mtv_session=fd80809f3f6b51a68ca8e0d327a5244a&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=31de3cf7ce30887e13ddcfcdd39350a2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",高清大片
-http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1598749465_-366256696/wd_r3/cctv/gaoqingdapian/600/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073748&ContentId=265218862&timezone=UTC&mtv_session=3a6b1c7737e83442360bc74c1db28160&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6c0357e0703b1ce5780f688addd61842
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",追剧少女
-http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1599321476_677368024/wd-virtuallive5100002089-150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073749&ContentId=265218878&timezone=UTC&mtv_session=0ef16dd36c78ec6087cfdd9240dda4be&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=59297ef87d5e48c3e92230975540fa04
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",热剧联播
-http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1599904987_1263698555/wd_r3/cctv/rejulianbo/600/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073749&ContentId=265218955&timezone=UTC&mtv_session=d08622891788b7f58f17fe9ddfcf7760&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=13902f5ffd15ce35b793e964458bc0a7
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="⚽体育频道",CCTV5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⚽综合频道",舌尖第1季
+https://lunbo.freetv.top/yy/1354930952
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⚽综合频道",舌尖第2季
+https://lunbo.freetv.top/yy/1354930943
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="" group-title="⚽综合频道",CCTV5
 http://223.105.252.60/PLTV/4/224/3221228173/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="⚽体育频道",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="" group-title="⚽综合频道",CCTV5+
 http://223.105.252.60/PLTV/4/224/3221228114/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="⚽体育频道",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="" group-title="⚽综合频道",CCTV5+
 http://223.105.252.60/PLTV/4/224/3221228076/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="⚽体育频道",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="" group-title="⚽综合频道",CCTV16
 http://223.105.252.60/PLTV/4/224/3221228320/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⚽体育频道",纬来体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⚽综合频道",纬来体育
 http://211.75.171.121:8564/http/61.67.128.137:8081/hls/67/809/ch028.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⚽体育频道",纬来体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⚽综合频道",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⚽体育频道",体育频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⚽综合频道",体育频道
 http://223.105.252.60/PLTV/4/224/3221228726/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⚽体育频道",精彩足球
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⚽综合频道",精彩足球
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226147/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⚽体育频道",综合体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⚽综合频道",综合体育
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⚽体育频道",精品体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⚽综合频道",精品体育
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⚽体育频道",咪咕视频
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⚽综合频道",咪咕视频
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226398/index.m3u8

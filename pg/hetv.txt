@@ -551,34 +551,6 @@ iHOT爱奇谈,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000
 iHOT爱动漫,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&yang-1989
 iHOT爱体育,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&yang-1989
 
-🎬影视轮播,#genre#
-舌尖上的中国第1季,https://lunbo.freetv.top/yy/1354930952
-舌尖上的中国第2季,https://lunbo.freetv.top/yy/1354930943
-狂飙,https://lunbo.freetv.top/yy/1355142167
-天道,https://lunbo.freetv.top/yy/1382735574
-小欢喜,https://lunbo.freetv.top/yy/1382737888
-花千骨,https://lunbo.freetv.top/yy/1354943110
-红楼梦,https://lunbo.freetv.top/yy/1382745084
-寻秦记,https://lunbo.freetv.top/yy/1382851591
-知否知否,https://lunbo.freetv.top/yy/21881901
-笑傲江湖,https://lunbo.freetv.top/yy/1354930909
-天龙八部,https://lunbo.freetv.top/yy/1351814644
-神雕侠侣,https://lunbo.freetv.top/yy/1351762426
-变形金刚,https://lunbo.freetv.top/yy/1382736803
-国漫热播,https://lunbo.freetv.top/yy/1353937086
-宰相刘罗锅,https://lunbo.freetv.top/yy/1382745191
-少年包青天,https://lunbo.freetv.top/yy/38498680
-射雕英雄传,https://lunbo.freetv.top/yy/1354210357
-神医喜来乐,https://lunbo.freetv.top/yy/1382714119
-仙剑奇侠传,https://lunbo.freetv.top/yy/1382749903
-新白娘子传奇,https://lunbo.freetv.top/yy/1354930969
-康熙微服私访记,https://lunbo.freetv.top/yy/1352811698
-倩女幽魂人间道,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
-倩女幽魂妖魔道,http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
-倩女幽魂道道道,http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
-周星驰电影,http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
-
-
 🎬电影频道,#genre#
 CHC家庭影院,http://39.165.81.230:85/tsfile/live/1059_1.m3u8?key=txiptv
 CHC动作电影,http://39.165.81.230:85/tsfile/live/1060_1.m3u8?key=txiptv
@@ -596,20 +568,13 @@ CHC影迷电影,http://39.165.81.230:85/tsfile/live/1061_1.m3u8?key=txiptv
 古装剧场,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225663/index.m3u8
 爱情喜剧,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225669/index.m3u8
 欢乐剧场,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225742/index.m3u8
-热播精选,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225671/index.m3u8
 潮妈辣婆,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225685/index.m3u8
 东北热剧,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225741/index.m3u8
-重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-重温经典,http://mtw.so/5NPX0U
-咪咕电影,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1599032126_-227250245/wd_r2/virtuallive/5100180869/150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073749&ContentId=265219029&timezone=UTC&mtv_session=f358762bcdc0d98e6da17359ed6dc2d2&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8daf635846c7955213792b55f33b0ed4
-新片放映,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1600732348_-360169236/wd-virtuallive5100030975-150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073750&ContentId=265218930&timezone=UTC&mtv_session=63000e2fea84d8a6504746c34e7d4d75&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b6ef40cfda8ddfec090a09afb9dd2444
-动感地带,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1597833161_-605154292/wd_r2/virtuallive/5102010211/150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073747&ContentId=265667553&timezone=UTC&mtv_session=fd80809f3f6b51a68ca8e0d327a5244a&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=31de3cf7ce30887e13ddcfcdd39350a2
-高清大片,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1598749465_-366256696/wd_r3/cctv/gaoqingdapian/600/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073748&ContentId=265218862&timezone=UTC&mtv_session=3a6b1c7737e83442360bc74c1db28160&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6c0357e0703b1ce5780f688addd61842
-追剧少女,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1599321476_677368024/wd-virtuallive5100002089-150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073749&ContentId=265218878&timezone=UTC&mtv_session=0ef16dd36c78ec6087cfdd9240dda4be&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=59297ef87d5e48c3e92230975540fa04
-热剧联播,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1599904987_1263698555/wd_r3/cctv/rejulianbo/600/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073749&ContentId=265218955&timezone=UTC&mtv_session=d08622891788b7f58f17fe9ddfcf7760&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=13902f5ffd15ce35b793e964458bc0a7
 
-⚽体育频道,#genre#
+
+⚽综合频道,#genre#
+舌尖第1季,https://lunbo.freetv.top/yy/1354930952
+舌尖第2季,https://lunbo.freetv.top/yy/1354930943
 CCTV5,http://223.105.252.60/PLTV/4/224/3221228173/index.m3u8?servicetype=1
 CCTV5+,http://223.105.252.60/PLTV/4/224/3221228114/index.m3u8?servicetype=1
 CCTV5+,http://223.105.252.60/PLTV/4/224/3221228076/index.m3u8?servicetype=1
