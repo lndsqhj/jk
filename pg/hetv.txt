@@ -13,19 +13,6 @@ CCTV16,http://223.105.252.59/PLTV/4/224/3221228314/index.m3u8?servicetype=1
 
 
 📺央视,#genre#
-CCTV1,http://106.53.99.30/dl/bjyd.php?id=1
-CCTV2,http://106.53.99.30/dl/bjyd.php?id=2
-CCTV4,http://106.53.99.30/dl/bjyd.php?id=3
-CCTV7,http://106.53.99.30/dl/bjyd.php?id=4
-CCTV9,http://106.53.99.30/dl/bjyd.php?id=5
-CCTV10,http://106.53.99.30/dl/bjyd.php?id=6
-CCTV11,http://106.53.99.30/dl/bjyd.php?id=7
-CCTV12,http://106.53.99.30/dl/bjyd.php?id=8
-CCTV13,http://106.53.99.30/dl/bjyd.php?id=9
-CCTV14,http://106.53.99.30/dl/bjyd.php?id=10
-CCTV15,http://106.53.99.30/dl/bjyd.php?id=11
-CCTV17,http://106.53.99.30/dl/bjyd.php?id=12
-
 CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV3,http://z.b.bkpcp.top/m.php?id=cctv3
@@ -45,6 +32,20 @@ CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14
 CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
 CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
+
+CCTV1,http://106.53.99.30/dl/bjyd.php?id=1
+CCTV2,http://106.53.99.30/dl/bjyd.php?id=2
+CCTV4,http://106.53.99.30/dl/bjyd.php?id=3
+CCTV7,http://106.53.99.30/dl/bjyd.php?id=4
+CCTV9,http://106.53.99.30/dl/bjyd.php?id=5
+CCTV10,http://106.53.99.30/dl/bjyd.php?id=6
+CCTV11,http://106.53.99.30/dl/bjyd.php?id=7
+CCTV12,http://106.53.99.30/dl/bjyd.php?id=8
+CCTV13,http://106.53.99.30/dl/bjyd.php?id=9
+CCTV14,http://106.53.99.30/dl/bjyd.php?id=10
+CCTV15,http://106.53.99.30/dl/bjyd.php?id=11
+CCTV17,http://106.53.99.30/dl/bjyd.php?id=12
+
 
 CCTV1,http://43.248.128.135:35455/gaoma/cctv1.m3u8
 CCTV1,http://hangfun.top:35455/gaoma/cctv1.m3u8

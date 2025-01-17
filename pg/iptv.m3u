@@ -24,31 +24,6 @@ http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8?servicetype=1
 http://223.105.252.59/PLTV/4/224/3221228314/index.m3u8?servicetype=1
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视",CCTV1
-http://106.53.99.30/dl/bjyd.php?id=1
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="📺央视",CCTV2
-http://106.53.99.30/dl/bjyd.php?id=2
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="📺央视",CCTV4
-http://106.53.99.30/dl/bjyd.php?id=3
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="📺央视",CCTV7
-http://106.53.99.30/dl/bjyd.php?id=4
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="📺央视",CCTV9
-http://106.53.99.30/dl/bjyd.php?id=5
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="📺央视",CCTV10
-http://106.53.99.30/dl/bjyd.php?id=6
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="📺央视",CCTV11
-http://106.53.99.30/dl/bjyd.php?id=7
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="📺央视",CCTV12
-http://106.53.99.30/dl/bjyd.php?id=8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="📺央视",CCTV13
-http://106.53.99.30/dl/bjyd.php?id=9
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="📺央视",CCTV14
-http://106.53.99.30/dl/bjyd.php?id=10
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="📺央视",CCTV15
-http://106.53.99.30/dl/bjyd.php?id=11
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="📺央视",CCTV17
-http://106.53.99.30/dl/bjyd.php?id=12
-
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视",CCTV1
 http://z.b.bkpcp.top/m.php?id=cctv1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="📺央视",CCTV2
 http://z.b.bkpcp.top/m.php?id=cctv2
@@ -85,6 +60,30 @@ http://z.b.bkpcp.top/m.php?id=cctv16
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="📺央视",CCTV17
 http://z.b.bkpcp.top/m.php?id=cctv17
 
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视",CCTV1
+http://106.53.99.30/dl/bjyd.php?id=1
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="📺央视",CCTV2
+http://106.53.99.30/dl/bjyd.php?id=2
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="📺央视",CCTV4
+http://106.53.99.30/dl/bjyd.php?id=3
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="📺央视",CCTV7
+http://106.53.99.30/dl/bjyd.php?id=4
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="📺央视",CCTV9
+http://106.53.99.30/dl/bjyd.php?id=5
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="📺央视",CCTV10
+http://106.53.99.30/dl/bjyd.php?id=6
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="📺央视",CCTV11
+http://106.53.99.30/dl/bjyd.php?id=7
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="📺央视",CCTV12
+http://106.53.99.30/dl/bjyd.php?id=8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="📺央视",CCTV13
+http://106.53.99.30/dl/bjyd.php?id=9
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="📺央视",CCTV14
+http://106.53.99.30/dl/bjyd.php?id=10
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="📺央视",CCTV15
+http://106.53.99.30/dl/bjyd.php?id=11
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="📺央视",CCTV17
+http://106.53.99.30/dl/bjyd.php?id=12
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视",CCTV1
 http://43.248.128.135:35455/gaoma/cctv1.m3u8
