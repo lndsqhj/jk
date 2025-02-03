@@ -75,20 +75,6 @@ CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14
 CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
 CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 
-CCTV1,http://106.53.99.30/dl/bjyd.php?id=1
-CCTV2,http://106.53.99.30/dl/bjyd.php?id=2
-CCTV4,http://106.53.99.30/dl/bjyd.php?id=3
-CCTV7,http://106.53.99.30/dl/bjyd.php?id=4
-CCTV9,http://106.53.99.30/dl/bjyd.php?id=5
-CCTV10,http://106.53.99.30/dl/bjyd.php?id=6
-CCTV11,http://106.53.99.30/dl/bjyd.php?id=7
-CCTV12,http://106.53.99.30/dl/bjyd.php?id=8
-CCTV13,http://106.53.99.30/dl/bjyd.php?id=9
-CCTV14,http://106.53.99.30/dl/bjyd.php?id=10
-CCTV15,http://106.53.99.30/dl/bjyd.php?id=11
-CCTV17,http://106.53.99.30/dl/bjyd.php?id=12
-
-
 CCTV1,http://dsm.huarunguoji.top:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
 CCTV2,http://dsm.huarunguoji.top:35455/itv/1000000001000023315.m3u8?cdn=ystenlive
 CCTV3,http://dsm.huarunguoji.top:35455/itv/1000000005000265003.m3u8?cdn=ystenlive
@@ -105,6 +91,24 @@ CCTV14,http://dsm.huarunguoji.top:35455/itv/1000000005000265013.m3u8?cdn=ystenli
 CCTV15,http://dsm.huarunguoji.top:35455/itv/1000000005000265014.m3u8?cdn=ystenlive
 CCTV16,http://dsm.huarunguoji.top:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
 CCTV17,http://dsm.huarunguoji.top:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
+
+CCTV1,http://110.42.45.89:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
+CCTV2,http://110.42.45.89:35455/itv/1000000001000023315.m3u8?cdn=ystenlive
+CCTV3,http://110.42.45.89:35455/itv/1000000005000265003.m3u8?cdn=ystenlive
+CCTV4,http://110.42.45.89:35455/itv/1000000005000265004.m3u8?cdn=ystenlive
+CCTV5,http://110.42.45.89:35455/itv/1000000005000265005.m3u8?cdn=ystenlive
+CCTV5+,http://110.42.45.89:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
+CCTV6,http://110.42.45.89:35455/itv/1000000005000265006.m3u8?cdn=ystenlive
+CCTV7,http://110.42.45.89:35455/itv/1000000005000265007.m3u8?cdn=ystenlive
+CCTV8,http://110.42.45.89:35455/itv/1000000005000265008.m3u8?cdn=ystenlive
+CCTV9,http://110.42.45.89:35455/itv/1000000005000265009.m3u8?cdn=ystenlive
+CCTV10,http://110.42.45.89:35455/itv/1000000005000265010.m3u8?cdn=ystenlive
+CCTV11,http://110.42.45.89:35455/itv/1000000005000265011.m3u8?cdn=ystenlive
+CCTV12,http://110.42.45.89:35455/itv/1000000005000265012.m3u8?cdn=ystenlive
+CCTV14,http://110.42.45.89:35455/itv/1000000005000265013.m3u8?cdn=ystenlive
+CCTV15,http://110.42.45.89:35455/itv/1000000005000265014.m3u8?cdn=ystenlive
+CCTV16,http://110.42.45.89:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
+CCTV17,http://110.42.45.89:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
 
 📺AKTV,#genre#
 鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
