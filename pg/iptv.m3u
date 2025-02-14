@@ -1,5 +1,23 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🧨2025春晚",央视春晚
+https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🧨2025春晚",粤港澳春晚
+https://svipsvip.ffzyread1.com/20250129/35459_cb6b4bc0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🧨2025春晚",江苏春晚
+https://svipsvip.ffzyread1.com/20250101/34720_0d5e4b60/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🧨2025春晚",山东春晚
+https://svipsvip.ffzyread1.com/20250129/35452_f20fd1e8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🧨2025春晚",安徽春晚
+https://svipsvip.ffzyread1.com/20250129/35454_7487d340/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🧨2025春晚",川渝春晚
+https://svipsvip.ffzyread1.com/20250129/35455_18491156/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🧨2025春晚",辽宁春晚1
+https://svipsvip.ffzyread1.com/20250129/35456_a631032a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🧨2025春晚",辽宁春晚2
+https://svipsvip.ffzyread1.com/20250129/35457_6898fca8/index.m3u8
+
+
 #EXTINF:-1 tvg-id="LOVENATURE4K" tvg-name="LOVENATURE4K" tvg-logo="https://epg.iill.top/logo/LoveNature4K.png" group-title="📺4K频道",Love_Nature_4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="Loupe" tvg-name="Loupe" tvg-logo="https://epg.iill.top/logo/Loupe4K.png" group-title="📺4K频道",Loupe_4K
@@ -8,6 +26,13 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.cn/tv/纯享4K.png" group-title="📺4K频道",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1  tvg-id="CCTV4K"  tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png"  group-title="📺4K频道",CCTV4K
+http://148.135.93.213:81/live.php?id=CCTV4K-av3a
+#EXTINF:-1 tvg-id="CCTV16-4K"  tvg-name="CCTV16-4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png"  group-title="📺4K频道",CCTV16-4K
+http://148.135.93.213:81/live.php?id=CCTV16-4K-av3a
+#EXTINF:-1  tvg-id="CCTV8K"  tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.cn/tv/CCTV8K.png"  group-title="📺4K频道",CCTV8K
+http://148.135.93.213:81/live.php?id=CCTV8K-av3a
+
 
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/057/821/202204010054_1626677502161_H169_1080.jpg" group-title="📺肥羊央视", CCTV1综合
 https://www.freetv.top/migu/608807420.m3u8?migutoken=b6a50213ea411edfdeda0e4c7abb5985d6a4f4c3d2f34274d4906fe15400b56f0a5a4ae5fb1d8e0ba25591ea3977d8cc6e1a4faa5a316308a146dfe83d122086fb13709fb6495fea020b068333
@@ -111,24 +136,6 @@ https://www.freetv.top/migu/713600957.m3u8?migutoken=0c2f720fe8351f892dc5b2530ff
 https://www.freetv.top/migu/790187880.m3u8?migutoken=f5864c35cd16cb816acd63b7c9c59d1dd1991ade6fc64f68af7c62822a6723f4a562e3fd027c4c31ffc2b706196edb206fee5bb252a8691b9f55043be9d72e4b969ec7a875197198eb0ce02edb
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/525/202411060921_1730856028525_H169_1080.jpg" group-title="📺肥羊影视", 金色剧场
 https://www.freetv.top/migu/713591450.m3u8?migutoken=f53791a52ca4f395aeeb33c32db58eac0de4ae801c352139d866f6d464bc538ab967676ce4789fc09ef5db3aedf84c340b992df79f147029f9800df95113a7d0b9c9e494b614ae9ad119d4ffaf
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🧨2025春晚",央视春晚
-https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🧨2025春晚",粤港澳春晚
-https://svipsvip.ffzyread1.com/20250129/35459_cb6b4bc0/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🧨2025春晚",江苏春晚
-https://svipsvip.ffzyread1.com/20250101/34720_0d5e4b60/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🧨2025春晚",山东春晚
-https://svipsvip.ffzyread1.com/20250129/35452_f20fd1e8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🧨2025春晚",安徽春晚
-https://svipsvip.ffzyread1.com/20250129/35454_7487d340/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🧨2025春晚",川渝春晚
-https://svipsvip.ffzyread1.com/20250129/35455_18491156/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🧨2025春晚",辽宁春晚1
-https://svipsvip.ffzyread1.com/20250129/35456_a631032a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🧨2025春晚",辽宁春晚2
-https://svipsvip.ffzyread1.com/20250129/35457_6898fca8/index.m3u8
 
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视咪咕",CCTV1
