@@ -393,7 +393,7 @@ CCTV17,http://miaowang.xin:8000/itv/1000000005000265015.m3u8?cdn=ystenlive
 厦门卫视,http://www.52iptv.vip:35455/itv/1000000005000266006.m3u8?cdn=ystenlive
 
 
-New TV频道,#genre#
+NewTV频道,#genre#
 精品综合,http://miaowang.xin:8000/itv/1000000004000019008.m3u8?cdn=ystenlive
 精品大剧,http://miaowang.xin:8000/itv/1000000004000013968.m3u8?cdn=ystenlive
 精品纪录,http://miaowang.xin:8000/itv/1000000004000013730.m3u8?cdn=ystenlive
