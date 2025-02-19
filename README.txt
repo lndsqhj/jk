@@ -5,6 +5,7 @@ https://gh.llkk.cc/
 https://slink.ltd/
 https://gh.tryxd.cn/
 https://gh-proxy.com/
+https://github.moeyy.xyz/
 https://ghp.xptvhelper.link/
 https://gt.uczyw.com/
 
