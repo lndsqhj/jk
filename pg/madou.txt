@@ -23,11 +23,25 @@
 彩虹e,http://ali.hlspull.yximgs.com/live/17d3e80331a0de6b63ecc4ce1110d26e.flv
 彩虹k,http://ali.hlspull.yximgs.com/live/54f9e2ff3a0a72e656b906b02cf30484.flv
 彩虹电影,http://ali.hlspull.yximgs.com/live/fe3dc2718c478e17d859cac009a355ba.flv
-潘多拉,http://ali.hlspull.yximgs.com/live/af0e7b17160cfb6ab83ae735ca9b2e42.flv
+玩美,http://ali.hlspull.yximgs.com/live/af0e7b17160cfb6ab83ae735ca9b2e42.flv
 惊艳,http://ali.hlspull.yximgs.com/live/abfb4e1674528451e40879f57f62e85b.flv
 香蕉,http://ali.hlspull.yximgs.com/live/46d3f3f68a3d92d09c4c246f3cccb27f.flv
-极限台,http://ali.hlspull.yximgs.com/live/08009264e76585bece00deda25aaef37.flv
+极限,http://ali.hlspull.yximgs.com/live/08009264e76585bece00deda25aaef37.flv
 HAPPY,http://ali.hlspull.yximgs.com/live/0debfd24bc1905bd90faff34e7719dd2.flv
+
+松视1,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/12/QnhCy-sqG4uKg?response-content-disposition=inline%3Bfilename%3Dsong-3.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=RYOTFhDu0Iz%2FYUjPnD3oOz1CVSI%3D
+松视2,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/04/TAq42-q-jZhYg?response-content-disposition=inline%3Bfilename%3Dsong-2.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=OoOm7pzMXcaJ%2FBN53RtGi0bHs7c%3D
+松视3,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202409/13/IDqXa-zOB5zEw?response-content-disposition=inline%3Bfilename%3DSONGS-3.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=aB0sXeKjag6v%2B%2FFfDwKto1u1sm4%3D
+松视4,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202410/15/Rm9hD-5oQEuhA?response-content-disposition=inline%3Bfilename%3DS4-1.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=8nm%2B7s2MQ9LwQhfDa4YqFvjgvqI%3D
+彩虹k,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202407/17/u7Twc-ncURpHQ?response-content-disposition=inline%3Bfilename%3Dch-k2.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=Ex2XEdIvefjV%2FVqHxGM2gWAzb0c%3D
+彩虹e,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/12/fZ7am-sqdexUw?response-content-disposition=inline%3Bfilename%3Dccaih-2.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=kcvnyBofYzpBj7xsa3JENX%2FD52Y%3D
+彩虹电影,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/07/36SxR-rqJoCPQ?response-content-disposition=inline%3Bfilename%3Dchdy-1.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=qvMjGnGnVeqnYxUnfw58gq3Gu78%3D
+玩美,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202412/22/zrJbZ_HJbw33A?response-content-disposition=inline%3Bfilename%3DPDL-2.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=mYkRJCo2P3aOyHHL1fngARJR0Bw%3D
+粉红,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202412/05/72j8b_DvA84Xg?response-content-disposition=inline%3Bfilename%3DPDL-3.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=sYkOjGq0iHgX9fVagv0ve%2BjRZHk%3D
+香蕉,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202412/26/BqkjG_IAiAlXA?response-content-disposition=inline%3Bfilename%3DXJ-1.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=roQ89UtFYePsUwQrd7NPqP7XsjE%3D
+HiPlay,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/24/PCcEv-vAB4mtQ?response-content-disposition=inline%3Bfilename%3Dh-1.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=rXaGimjP0a70u%2Fx6V%2Bo1XVFC88g%3D
+HOT,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202410/16/pWrZs-5qvtP9Q?response-content-disposition=inline%3Bfilename%3Dbandicam%25202024-08-20%252014-00-06-656.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=ctsYNSAjWID1R2%2Bhqj8YdXYbUpw%3D
+HAPPY,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/04/8KTwR-q-hMGyw?response-content-disposition=inline%
 
 
 香蕉1,http://s.mrw.so/94E7W
