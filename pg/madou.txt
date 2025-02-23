@@ -17,17 +17,17 @@
 
 
 松视彩虹,#genre#
-松视1,http://ali.hlspull.yximgs.com/live/dfbbe04d52be714d24711a78e7841884.flv
-松视2,http://ali.hlspull.yximgs.com/live/76e756c90f7f239fe9f9a18a718030c4.flv
-松视3,http://ali.hlspull.yximgs.com/live/c0e66b18c2b1c3fee9deaeeec04cdb45.flv
-彩虹e,http://ali.hlspull.yximgs.com/live/17d3e80331a0de6b63ecc4ce1110d26e.flv
-彩虹k,http://ali.hlspull.yximgs.com/live/54f9e2ff3a0a72e656b906b02cf30484.flv
-彩虹电影,http://ali.hlspull.yximgs.com/live/fe3dc2718c478e17d859cac009a355ba.flv
-玩美,http://ali.hlspull.yximgs.com/live/af0e7b17160cfb6ab83ae735ca9b2e42.flv
-惊艳,http://ali.hlspull.yximgs.com/live/abfb4e1674528451e40879f57f62e85b.flv
-香蕉,http://ali.hlspull.yximgs.com/live/46d3f3f68a3d92d09c4c246f3cccb27f.flv
-极限,http://ali.hlspull.yximgs.com/live/08009264e76585bece00deda25aaef37.flv
-HAPPY,http://ali.hlspull.yximgs.com/live/0debfd24bc1905bd90faff34e7719dd2.flv
+松视1,http://ali.hlspull.yximgs.com/live/d83e6220adf4b177b676f9186272931c.flv
+松视2,http://ali.hlspull.yximgs.com/live/50cc0e0f44161055d831b5389204cd07.flv
+松视3,http://ali.hlspull.yximgs.com/live/fc764410c7ff17de40e397e13f3878e5.flv
+彩虹e,http://ali.hlspull.yximgs.com/live/dc9b3709c8433dce0816a1a4bd53a8f7.flv
+彩虹k,http://ali.hlspull.yximgs.com/live/56bb1bb37bbd27819e5b436dbb1a1d62.flv
+彩虹电影,http://ali.hlspull.yximgs.com/live/533a68a3b61d8cc40dabc44edab46eb6.flv
+玩美,http://ali.hlspull.yximgs.com/live/cf03cb81eab187ba0366bdc35a80b429.flv
+惊艳,http://ali.hlspull.yximgs.com/live/034825b631eb9e53569b61ad486fe88f.flv
+香蕉,http://ali.hlspull.yximgs.com/live/ea195634be1c3d8fe9b842c0af573433.flv
+极限,http://ali.hlspull.yximgs.com/live/a131977dce17b3f9838989b0bd346569.flv
+HAPPY,http://ali.hlspull.yximgs.com/live/4d42f44c0cca7cadc93f2408689ee106.flv
 
 松视1,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/12/QnhCy-sqG4uKg?response-content-disposition=inline%3Bfilename%3Dsong-3.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=RYOTFhDu0Iz%2FYUjPnD3oOz1CVSI%3D
 松视2,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/04/TAq42-q-jZhYg?response-content-disposition=inline%3Bfilename%3Dsong-2.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=OoOm7pzMXcaJ%2FBN53RtGi0bHs7c%3D
