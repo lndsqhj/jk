@@ -27,7 +27,7 @@
 惊艳,http://ali.hlspull.yximgs.com/live/034825b631eb9e53569b61ad486fe88f.flv
 香蕉,http://ali.hlspull.yximgs.com/live/ea195634be1c3d8fe9b842c0af573433.flv
 极限,http://ali.hlspull.yximgs.com/live/a131977dce17b3f9838989b0bd346569.flv
-HAPPY,http://ali.hlspull.yximgs.com/live/4d42f44c0cca7cadc93f2408689ee106.flv
+
 
 松视1,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/12/QnhCy-sqG4uKg?response-content-disposition=inline%3Bfilename%3Dsong-3.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=RYOTFhDu0Iz%2FYUjPnD3oOz1CVSI%3D
 松视2,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/04/TAq42-q-jZhYg?response-content-disposition=inline%3Bfilename%3Dsong-2.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=OoOm7pzMXcaJ%2FBN53RtGi0bHs7c%3D
@@ -37,10 +37,11 @@ HAPPY,http://ali.hlspull.yximgs.com/live/4d42f44c0cca7cadc93f2408689ee106.flv
 彩虹e,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/12/fZ7am-sqdexUw?response-content-disposition=inline%3Bfilename%3Dccaih-2.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=kcvnyBofYzpBj7xsa3JENX%2FD52Y%3D
 彩虹电影,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/07/36SxR-rqJoCPQ?response-content-disposition=inline%3Bfilename%3Dchdy-1.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=qvMjGnGnVeqnYxUnfw58gq3Gu78%3D
 玩美,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202412/22/zrJbZ_HJbw33A?response-content-disposition=inline%3Bfilename%3DPDL-2.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=mYkRJCo2P3aOyHHL1fngARJR0Bw%3D
-粉红,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202412/05/72j8b_DvA84Xg?response-content-disposition=inline%3Bfilename%3DPDL-3.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=sYkOjGq0iHgX9fVagv0ve%2BjRZHk%3D
+玩美,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202412/05/72j8b_DvA84Xg?response-content-disposition=inline%3Bfilename%3DPDL-3.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=sYkOjGq0iHgX9fVagv0ve%2BjRZHk%3D
 香蕉,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202412/26/BqkjG_IAiAlXA?response-content-disposition=inline%3Bfilename%3DXJ-1.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=roQ89UtFYePsUwQrd7NPqP7XsjE%3D
 HiPlay,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/24/PCcEv-vAB4mtQ?response-content-disposition=inline%3Bfilename%3Dh-1.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=rXaGimjP0a70u%2Fx6V%2Bo1XVFC88g%3D
 HOT,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202410/16/pWrZs-5qvtP9Q?response-content-disposition=inline%3Bfilename%3Dbandicam%25202024-08-20%252014-00-06-656.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=ctsYNSAjWID1R2%2Bhqj8YdXYbUpw%3D
+HAPPY,http://ali.hlspull.yximgs.com/live/4d42f44c0cca7cadc93f2408689ee106.flv
 HAPPY,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/04/8KTwR-q-hMGyw?response-content-disposition=inline%
 
 
@@ -57,8 +58,8 @@ HAPPY,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/2024
 彩虹e,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476368.m3u8
 彩虹k,http://s.mrw.so/7DlBI
 极限,http://suo.im/aD7Ry
-彩虹电影1,http://suo.im/9sOLD
-彩虹电影2,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476369.m3u8
+彩虹电影,http://suo.im/9sOLD
+彩虹电影,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476369.m3u8
 松视1,http://suo.im/c4FP2
 松视1,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476365.m3u8
 松视1,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/639652.m3u8
@@ -102,12 +103,11 @@ CCAV6,https://jinpinxm.com/20240804/l7CmmmJt/index.m3u8
 松视3,https://z88.ubtvfans.com/live/rx3/404/92fba28e982d7b13b6b47247c5a40674/index.m3u8
 玩美,https://z88.ubtvfans.com/live/rx3/410/dacb911175b62240def0b25261956255/index.m3u8
 玩美,https://z88.ubtvfans.com/live/rx4/2932/b6b6a5be91b01fc51c10ef875771c2e1/index.m3u8
-香蕉台,https://z88.ubtvfans.com/live/rx3/2930/d7519066a215773ae2b4c2b9a8d84b0e/index.m3u8
+香蕉,https://z88.ubtvfans.com/live/rx3/2930/d7519066a215773ae2b4c2b9a8d84b0e/index.m3u8
 彩虹e,https://z88.ubtvfans.com/live/rx3/406/c7cf20f7311656179fff53851157b0c8/index.m3u8
 彩虹e,https://z88.ubtvfans.com/live/rx4/2935/81f1bcf77f4b026aa463b02c759533c4/index.m3u8
 彩虹k,https://z88.ubtvfans.com/live/rx3/415/42559e8bdd8c8295cfd79bff2c07ab00/index.m3u8
 极限,https://z88.ubtvfans.com/live/rx3/405/3173a543a9c92b07348ba90c2a3e833e/index.m3u8
-奥视频道2,https://z88.ubtvfans.com/live/rx3/2916/6ebac27b37693d228d3e33bfeb29a724/index.m3u8
 LOOK TV,https://z88.ubtvfans.com/live/rx4/2933/221f73567c4cc259c93107e1c008f575/index.m3u8
 HAPPY,https://z88.ubtvfans.com/live/rx3/2908/424b43f3308a24923d95343136393324/index.m3u8
 Star,https://z88.ubtvfans.com/live/rx3/2909/40db42dc3b269e83dfa59954f724d8bb/index.m3u8
