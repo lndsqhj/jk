@@ -44,19 +44,19 @@ HOT,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202410
 HAPPY,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/04/8KTwR-q-hMGyw?response-content-disposition=inline%
 
 
-香蕉1,http://s.mrw.so/94E7W
-香蕉2,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476372.m3u8
-香蕉3,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/639651.m3u8
-惊艳1,http://suo.im/8odLv
-惊艳2,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476371.m3u8
-惊艳3,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/639650.m3u8
-潘多拉1,http://suo.im/6TuSG
-潘多拉2,http://mtw.so/5NweOs
-潘多拉3,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476363.m3u8
-潘多拉4,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/639649.m3u8
+香蕉,http://s.mrw.so/94E7W
+香蕉,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476372.m3u8
+香蕉,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/639651.m3u8
+惊艳,http://suo.im/8odLv
+惊艳,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476371.m3u8
+惊艳,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/639650.m3u8
+玩美,http://suo.im/6TuSG
+玩美,http://mtw.so/5NweOs
+玩美,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476363.m3u8
+玩美,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/639649.m3u8
 彩虹e,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476368.m3u8
 彩虹k,http://s.mrw.so/7DlBI
-极限台,http://suo.im/aD7Ry
+极限,http://suo.im/aD7Ry
 彩虹电影1,http://suo.im/9sOLD
 彩虹电影2,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476369.m3u8
 松视1,http://suo.im/c4FP2
@@ -91,23 +91,22 @@ CCAV6,https://vip4.lbbf9.com/20250117/FYQMkins/index.m3u8
 CCAV6,https://jinpinxm.com/20240804/l7CmmmJt/index.m3u8
 
 
-松视1台,http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
-松视2台,http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
-松视3台,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
-松视3台,https://18.svi-studio.com/live/271871095922/006886711863/20205.m3u8
-香蕉台,http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
-麻豆视频,http://125.227.210.55:51359/VideoInput/play.ts
-彩虹玩美,http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
-彩虹惊艳,http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
+松视1,http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
+松视2,http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
+松视3,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
+松视3,https://18.svi-studio.com/live/271871095922/006886711863/20205.m3u8
+香蕉,http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
+玩美,http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
+惊艳,http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
 
-松视3台,https://z88.ubtvfans.com/live/rx3/404/92fba28e982d7b13b6b47247c5a40674/index.m3u8
-潘多拉完美,https://z88.ubtvfans.com/live/rx3/410/dacb911175b62240def0b25261956255/index.m3u8
-潘多拉完美,https://z88.ubtvfans.com/live/rx4/2932/b6b6a5be91b01fc51c10ef875771c2e1/index.m3u8
-奥视香蕉台,https://z88.ubtvfans.com/live/rx3/2930/d7519066a215773ae2b4c2b9a8d84b0e/index.m3u8
-彩虹e台,https://z88.ubtvfans.com/live/rx3/406/c7cf20f7311656179fff53851157b0c8/index.m3u8
-彩虹e台,https://z88.ubtvfans.com/live/rx4/2935/81f1bcf77f4b026aa463b02c759533c4/index.m3u8
-彩虹k台,https://z88.ubtvfans.com/live/rx3/415/42559e8bdd8c8295cfd79bff2c07ab00/index.m3u8
-JStar极限台,https://z88.ubtvfans.com/live/rx3/405/3173a543a9c92b07348ba90c2a3e833e/index.m3u8
+松视3,https://z88.ubtvfans.com/live/rx3/404/92fba28e982d7b13b6b47247c5a40674/index.m3u8
+玩美,https://z88.ubtvfans.com/live/rx3/410/dacb911175b62240def0b25261956255/index.m3u8
+玩美,https://z88.ubtvfans.com/live/rx4/2932/b6b6a5be91b01fc51c10ef875771c2e1/index.m3u8
+香蕉台,https://z88.ubtvfans.com/live/rx3/2930/d7519066a215773ae2b4c2b9a8d84b0e/index.m3u8
+彩虹e,https://z88.ubtvfans.com/live/rx3/406/c7cf20f7311656179fff53851157b0c8/index.m3u8
+彩虹e,https://z88.ubtvfans.com/live/rx4/2935/81f1bcf77f4b026aa463b02c759533c4/index.m3u8
+彩虹k,https://z88.ubtvfans.com/live/rx3/415/42559e8bdd8c8295cfd79bff2c07ab00/index.m3u8
+极限,https://z88.ubtvfans.com/live/rx3/405/3173a543a9c92b07348ba90c2a3e833e/index.m3u8
 奥视频道2,https://z88.ubtvfans.com/live/rx3/2916/6ebac27b37693d228d3e33bfeb29a724/index.m3u8
 LOOK TV,https://z88.ubtvfans.com/live/rx4/2933/221f73567c4cc259c93107e1c008f575/index.m3u8
 HAPPY,https://z88.ubtvfans.com/live/rx3/2908/424b43f3308a24923d95343136393324/index.m3u8
