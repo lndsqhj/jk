@@ -17,66 +17,20 @@
 
 
 松视彩虹,#genre#
-松视1,http://ali.hlspull.yximgs.com/live/d83e6220adf4b177b676f9186272931c.flv
-松视2,http://ali.hlspull.yximgs.com/live/50cc0e0f44161055d831b5389204cd07.flv
-松视3,http://ali.hlspull.yximgs.com/live/fc764410c7ff17de40e397e13f3878e5.flv
-彩虹e,http://ali.hlspull.yximgs.com/live/dc9b3709c8433dce0816a1a4bd53a8f7.flv
-彩虹k,http://ali.hlspull.yximgs.com/live/56bb1bb37bbd27819e5b436dbb1a1d62.flv
-彩虹电影,http://ali.hlspull.yximgs.com/live/533a68a3b61d8cc40dabc44edab46eb6.flv
-玩美,http://ali.hlspull.yximgs.com/live/cf03cb81eab187ba0366bdc35a80b429.flv
-惊艳,http://ali.hlspull.yximgs.com/live/034825b631eb9e53569b61ad486fe88f.flv
-香蕉,http://ali.hlspull.yximgs.com/live/ea195634be1c3d8fe9b842c0af573433.flv
-极限,http://ali.hlspull.yximgs.com/live/a131977dce17b3f9838989b0bd346569.flv
 
-
-松视1,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/12/QnhCy-sqG4uKg?response-content-disposition=inline%3Bfilename%3Dsong-3.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=RYOTFhDu0Iz%2FYUjPnD3oOz1CVSI%3D
-松视2,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/04/TAq42-q-jZhYg?response-content-disposition=inline%3Bfilename%3Dsong-2.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=OoOm7pzMXcaJ%2FBN53RtGi0bHs7c%3D
-松视3,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202409/13/IDqXa-zOB5zEw?response-content-disposition=inline%3Bfilename%3DSONGS-3.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=aB0sXeKjag6v%2B%2FFfDwKto1u1sm4%3D
-松视4,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202410/15/Rm9hD-5oQEuhA?response-content-disposition=inline%3Bfilename%3DS4-1.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=8nm%2B7s2MQ9LwQhfDa4YqFvjgvqI%3D
-彩虹k,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202407/17/u7Twc-ncURpHQ?response-content-disposition=inline%3Bfilename%3Dch-k2.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=Ex2XEdIvefjV%2FVqHxGM2gWAzb0c%3D
-彩虹e,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/12/fZ7am-sqdexUw?response-content-disposition=inline%3Bfilename%3Dccaih-2.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=kcvnyBofYzpBj7xsa3JENX%2FD52Y%3D
-彩虹电影,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/07/36SxR-rqJoCPQ?response-content-disposition=inline%3Bfilename%3Dchdy-1.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=qvMjGnGnVeqnYxUnfw58gq3Gu78%3D
-玩美,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202412/22/zrJbZ_HJbw33A?response-content-disposition=inline%3Bfilename%3DPDL-2.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=mYkRJCo2P3aOyHHL1fngARJR0Bw%3D
-玩美,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202412/05/72j8b_DvA84Xg?response-content-disposition=inline%3Bfilename%3DPDL-3.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=sYkOjGq0iHgX9fVagv0ve%2BjRZHk%3D
-香蕉,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202412/26/BqkjG_IAiAlXA?response-content-disposition=inline%3Bfilename%3DXJ-1.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=roQ89UtFYePsUwQrd7NPqP7XsjE%3D
-HiPlay,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/24/PCcEv-vAB4mtQ?response-content-disposition=inline%3Bfilename%3Dh-1.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=rXaGimjP0a70u%2Fx6V%2Bo1XVFC88g%3D
-HOT,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202410/16/pWrZs-5qvtP9Q?response-content-disposition=inline%3Bfilename%3Dbandicam%25202024-08-20%252014-00-06-656.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1740326399&Signature=ctsYNSAjWID1R2%2Bhqj8YdXYbUpw%3D
-HAPPY,http://ali.hlspull.yximgs.com/live/4d42f44c0cca7cadc93f2408689ee106.flv
-HAPPY,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/04/8KTwR-q-hMGyw?response-content-disposition=inline%
 
 
 香蕉,http://s.mrw.so/94E7W
-香蕉,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476372.m3u8
-香蕉,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/639651.m3u8
 惊艳,http://suo.im/8odLv
-惊艳,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476371.m3u8
-惊艳,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/639650.m3u8
 玩美,http://suo.im/6TuSG
 玩美,http://mtw.so/5NweOs
-玩美,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476363.m3u8
-玩美,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/639649.m3u8
-彩虹e,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476368.m3u8
 彩虹k,http://s.mrw.so/7DlBI
 极限,http://suo.im/aD7Ry
 彩虹电影,http://suo.im/9sOLD
-彩虹电影,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476369.m3u8
 松视1,http://suo.im/c4FP2
-松视1,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476365.m3u8
-松视1,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/639652.m3u8
 松视2,http://b.mtw.so/6pAjsB
 松视2,http://mtw.so/6pAjsB
-松视2,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476366.m3u8
-松视2,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/639653.m3u8
 松视3,http://suo.im/9wiS2
-无码1,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476380.m3u8
-无码2,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476405.m3u8
-HAPPY,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476374.m3u8
-BABES,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476375.m3u8
-DORCEL,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476377.m3u8
-PLAYBOY,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476376.m3u8
-PRIVATE,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476379.m3u8
-HUSTLER,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476410.m3u8
-VIVIDRED,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476378.m3u8
 DESIRE,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 BRAZZERS,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 DORCEL,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
@@ -92,49 +46,8 @@ CCAV6,https://vip4.lbbf9.com/20250117/FYQMkins/index.m3u8
 CCAV6,https://jinpinxm.com/20240804/l7CmmmJt/index.m3u8
 
 
-松视1,http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
-松视2,http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
-松视3,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
-松视3,https://18.svi-studio.com/live/271871095922/006886711863/20205.m3u8
-香蕉,http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
-玩美,http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
-惊艳,http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
 
-松视3,https://z88.ubtvfans.com/live/rx3/404/92fba28e982d7b13b6b47247c5a40674/index.m3u8
-玩美,https://z88.ubtvfans.com/live/rx3/410/dacb911175b62240def0b25261956255/index.m3u8
-玩美,https://z88.ubtvfans.com/live/rx4/2932/b6b6a5be91b01fc51c10ef875771c2e1/index.m3u8
-香蕉,https://z88.ubtvfans.com/live/rx3/2930/d7519066a215773ae2b4c2b9a8d84b0e/index.m3u8
-彩虹e,https://z88.ubtvfans.com/live/rx3/406/c7cf20f7311656179fff53851157b0c8/index.m3u8
-彩虹e,https://z88.ubtvfans.com/live/rx4/2935/81f1bcf77f4b026aa463b02c759533c4/index.m3u8
-彩虹k,https://z88.ubtvfans.com/live/rx3/415/42559e8bdd8c8295cfd79bff2c07ab00/index.m3u8
-极限,https://z88.ubtvfans.com/live/rx3/405/3173a543a9c92b07348ba90c2a3e833e/index.m3u8
-LOOK TV,https://z88.ubtvfans.com/live/rx4/2933/221f73567c4cc259c93107e1c008f575/index.m3u8
-HAPPY,https://z88.ubtvfans.com/live/rx3/2908/424b43f3308a24923d95343136393324/index.m3u8
-Star,https://z88.ubtvfans.com/live/rx3/2909/40db42dc3b269e83dfa59954f724d8bb/index.m3u8
-Brazzers,https://z88.ubtvfans.com/live/rx4/3076/a12a03636eb461a5a8889dd3fc74e8b2/index.m3u8
-Hustler XXX TV,https://z88.ubtvfans.com/live/rx4/3087/14f152f3264ce3e9e1427cf56c58b5a7/index.m3u8
-BABES,https://z88.ubtvfans.com/live/rx4/3088/da56243db479bcad01e237dc7d5916c2/index.m3u8
-BABES UNLEASHED,https://z88.ubtvfans.com/live/rx4/3089/fceb1d9ce9827be6b6521988fcc32f77/index.m3u8
-BAEB Perv City,https://z88.ubtvfans.com/live/rx4/3090/b0a7acc8523476457cad9f8b62395b5e/index.m3u8
-BRATTY SIS,https://z88.ubtvfans.com/live/rx4/3091/8228945368a4e09ff72963102acf1267/index.m3u8
-BRAZZERS EN ESP ANOL,https://z88.ubtvfans.com/live/rx4/3092/715bafcda62422e3ba425835da61a521/index.m3u8
-BUSTY LOVER,https://z88.ubtvfans.com/live/rx4/3093/7b8abe8ba385b6d57182fd687b14c586/index.m3u8
-CUM 4K,https://z88.ubtvfans.com/live/rx4/3094/a5b79c2ebec5f87ba1afad0cb58ee6bf/index.m3u8
-Blue Hustler,https://z88.ubtvfans.com/live/rx4/3077/84b053b0c7a7fc3ad40c24c48087446f/index.m3u8
-OOK,https://z88.ubtvfans.com/live/rx4/2933/221f73567c4cc259c93107e1c008f575/index.m3u8
-Redlight HD,https://z88.ubtvfans.com/live/rx3/452/ed53afb729ed5584d2958a1909bc0986/index.m3u8
-EXXXTRA SMALL,https://z88.ubtvfans.com/live/rx3/2916/6ebac27b37693d228d3e33bfeb29a724/index.m3u8
-DAUGHTER SWAP,https://z88.ubtvfans.com/live/rx4/3095/c8e9ae3112cb9d70064d2103952e6ef4/index.m3u8
-DEEPER,https://z88.ubtvfans.com/live/rx4/3096/72b26b16b100481f316769e3214cd53f/index.m3u8
-DIGITAL PLAYGROUND,https://z88.ubtvfans.com/live/rx4/3097/b168f792e52cbed89353b553e6b76781/index.m3u8
-EROTIC SPICE,https://z88.ubtvfans.com/live/rx4/3098/8f0198456537323bd0734286f553daff/index.m3u8
-FAKE AGENT,https://z88.ubtvfans.com/live/rx4/3100/0054c8fcc672ceaab19767d619dd55d6/index.m3u8
-FAKE AGENT UK,https://z88.ubtvfans.com/live/rx4/3101/943ac27f3ca3b4f4f73c9371db29905e/index.m3u8
-FAKE COP,https://z88.ubtvfans.com/live/rx4/3102/74849e232affc590445b3ccd5ab643b3/index.m3u8
-金丝雀,https://z88.ubtvfans.com/live/rx4/3155/9aa5c6c33ac7dc40c1bec7d1f438a68b/index.m3u8
-波多野结衣,https://z88.ubtvfans.com/live/rx4/3158/001382a5b8b058f619b1904f88a396e7/index.m3u8
-上原亚衣,https://z88.ubtvfans.com/live/rx4/3162/6c0a942615db0168c97f013dedfe9093/index.m3u8
-天堂素人约啪,https://z88.ubtvfans.com/live/rx4/3164/8d30a81f0cda29b4eb7afc99c09b0252/index.m3u8
+
 
 
 Stripchat,#genre#
