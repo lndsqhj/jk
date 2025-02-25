@@ -15,17 +15,13 @@
 韩国美女EP4,https://pixeldrain.com/api/file/wi9euaoZ
 
 
-
 松视彩虹,#genre#
-
-
-
 香蕉,http://s.mrw.so/94E7W
 惊艳,http://suo.im/8odLv
-玩美,http://suo.im/6TuSG
-玩美,http://mtw.so/5NweOs
+完美,http://suo.im/6TuSG
+完美,http://mtw.so/5NweOs
 彩虹k,http://s.mrw.so/7DlBI
-极限,http://suo.im/aD7Ry
+极限电影,http://suo.im/aD7Ry
 彩虹电影,http://suo.im/9sOLD
 松视1,http://suo.im/c4FP2
 松视2,http://b.mtw.so/6pAjsB
@@ -44,9 +40,6 @@ RKTV,http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 CCAV6,https://vip4.lbbf9.com/20250121/BdeiuobG/index.m3u8
 CCAV6,https://vip4.lbbf9.com/20250117/FYQMkins/index.m3u8
 CCAV6,https://jinpinxm.com/20240804/l7CmmmJt/index.m3u8
-
-
-
 
 
 
