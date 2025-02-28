@@ -30,9 +30,7 @@
 香蕉,http://ali.hlspull.yximgs.com/live/b2090ce5206f6017f5822e1c8423d7dc.flv
 极限,http://ali.hlspull.yximgs.com/live/3df9f2a8a7f630d700404a8c22f34389.flv
 HAPPY,http://ali.hlspull.yximgs.com/live/2008e1f5f6f22be6857f3c396bc931fd.flv
-俄罗斯1,http://ali.hlspull.yximgs.com/live/5df7bd593645d54eb0a58078003b27a9.flv
-俄罗斯2,http://ali.hlspull.yximgs.com/live/ee94804fe2af8a31756fe7c64acb7c6a.flv
-俄罗斯3,http://ali.hlspull.yximgs.com/live/8b3ce074e7e2f34f568926f293ed35cd.flv
+
 
 
 
