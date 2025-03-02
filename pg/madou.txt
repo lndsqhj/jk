@@ -19,17 +19,7 @@
 松视彩虹,#genre#
 
 
-松视1,http://ali.hlspull.yximgs.com/live/0b64abcd9e7411763ee0baea18106e7b.flv
-松视2,http://ali.hlspull.yximgs.com/live/df7393ba37d810fb19fd4fe152388d5a.flv
-松视3,http://ali.hlspull.yximgs.com/live/66fa94955a6a21a5b5ae4c6ddb71c422.flv
-彩虹e,http://ali.hlspull.yximgs.com/live/b04d209070a2c2dc211432097d2cb645.flv
-彩虹k,http://ali.hlspull.yximgs.com/live/a48baebcb756588269e88b3c116fc8d7.flv
-彩虹电影,http://ali.hlspull.yximgs.com/live/ab49569108359e9fd7153bf46b609f7b.flv
-玩美,http://ali.hlspull.yximgs.com/live/051fe24918b3b3c33e6b62cf5077044e.flv
-惊艳,http://ali.hlspull.yximgs.com/live/46d9203e5192553ca78f81e57e3ddb0e.flv
-香蕉,http://ali.hlspull.yximgs.com/live/b2090ce5206f6017f5822e1c8423d7dc.flv
-极限,http://ali.hlspull.yximgs.com/live/3df9f2a8a7f630d700404a8c22f34389.flv
-HAPPY,http://ali.hlspull.yximgs.com/live/2008e1f5f6f22be6857f3c396bc931fd.flv
+
 
 
 
