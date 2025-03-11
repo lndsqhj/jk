@@ -21,7 +21,8 @@
 松视2,http://suo.im/aeQTj
 松视3,http://suo.im/aeQT9
 香蕉,http://s.mrw.so/bK5Rb
-惊艳,http://suo.im/dfkTT
+惊艳1,http://suo.im/dfkTT
+惊艳2,http://b.mtw.so/6pAjsB
 潘多拉,http://suo.im/aZtnO
 彩虹e,http://s.mrw.so/aeQSZ
 彩虹k,http://s.mrw.so/aZtoi
@@ -34,20 +35,16 @@ pigoo,https://luong.utako.moe/pigoo/index.m3u8
 松视3,http://suo.im/9wiS2
 香蕉,http://s.mrw.so/94E7W
 潘多拉,http://suo.im/6TuSG
-惊艳1,http://suo.im/8odLv
-惊艳2,http://b.mtw.so/6pAjsB
+惊艳2,http://suo.im/8odLv
 彩虹e,http://s.mrw.so/7DlBI
 彩虹e,http://mtw.so/5NweOs
 彩虹电影,http://suo.im/9sOLD
 极限电影,http://suo.im/aD7Ry
 
 
-
-
 欧美女优,#genre#
 Extasy 4K,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/5014/index.m3u8
 Extasy 4K,http://rhsbjv7k.tvclub.xyz/iptv/TVGXTE68LZGQWS/5014/index.m3u8
-
 Babes,http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 Brazzers,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
