@@ -17,8 +17,8 @@
 
 
 松视彩虹,#genre#
-松视1,http://suo.im/aD7Ry
-松视2,http://suo.im/aeQTj
+松视1,http://suo.im/aeQTj
+松视2,http://suo.im/aD7Ry
 松视3,http://suo.im/aeQT9
 香蕉,http://s.mrw.so/bK5Rb
 惊艳1,http://suo.im/dfkTT
