@@ -6,7 +6,6 @@ Zoom tv,http://178.219.128.68:64889//ZOOMTVHD#http://185.236.229.62:9981/play/a0
 チャンネルNECO,https://stream02.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 动物世界,http://v2.catcast.tv/content/40546/index.m3u8
 Кино 18+ International,https://v2.catcast.tv/content/40381/index.m3u8
-INDIEFILM,http://suo.im/aD7Ry
 私房写真,https://luong.utako.moe/pigoo/index.m3u8
 3,http://mtw.so/5NweOs
 
@@ -17,7 +16,8 @@ INDIEFILM,http://suo.im/aD7Ry
 彩虹电影,http://suo.im/cuIoU
 彩虹e,http://s.mrw.so/aeQSZ
 彩虹k,http://s.mrw.so/aZtoi
-松视1,http://suo.im/aeQTj
+松视1,http://suo.im/aD7Ry
+松视2,http://suo.im/aeQTj
 松视3,http://suo.im/aeQT9
 极限电影,http://suo.im/7emO2
 pigoo,https://luong.utako.moe/pigoo/index.m3u8
