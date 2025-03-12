@@ -18,7 +18,6 @@
 
 松视彩虹,#genre#
 松视1,http://suo.im/aeQTj
-松视2,http://suo.im/aD7Ry
 松视3,http://suo.im/aeQT9
 香蕉,http://s.mrw.so/bK5Rb
 惊艳1,http://suo.im/dfkTT
@@ -28,6 +27,7 @@
 彩虹k,http://s.mrw.so/aZtoi
 彩虹电影,http://suo.im/cuIoU
 极限电影,http://suo.im/7emO2
+HAPPY,http://suo.im/aD7Ry
 pigoo,https://luong.utako.moe/pigoo/index.m3u8
 
 松视1,http://suo.im/c4FP2
@@ -42,9 +42,11 @@ pigoo,https://luong.utako.moe/pigoo/index.m3u8
 极限电影,http://suo.im/aD7Ry
 
 
+
 欧美女优,#genre#
 Extasy 4K,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/5014/index.m3u8
 Extasy 4K,http://rhsbjv7k.tvclub.xyz/iptv/TVGXTE68LZGQWS/5014/index.m3u8
+
 Babes,http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 Brazzers,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
