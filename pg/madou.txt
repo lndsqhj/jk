@@ -26,8 +26,8 @@
 彩虹e,http://s.mrw.so/aeQSZ
 彩虹k,http://s.mrw.so/aZtoi
 彩虹电影,http://suo.im/cuIoU
-极限电影,http://suo.im/7emO2
-HAPPY,http://suo.im/aD7Ry
+极限电影,http://suo.im/aD7Ry
+HAPPY,http://suo.im/7emO2
 pigoo,https://luong.utako.moe/pigoo/index.m3u8
 
 松视1,http://suo.im/c4FP2
