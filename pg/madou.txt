@@ -20,12 +20,11 @@
 松视1,http://suo.im/aeQTj
 松视2,http://mtw.so/6pAjsB
 松视3,http://suo.im/aeQT9
-松视3,http://s.mrw.so/aeQSZ
 香蕉,http://s.mrw.so/bK5Rb
 惊艳1,http://suo.im/dfkTT
 惊艳2,http://b.mtw.so/6pAjsB
 潘多拉,http://suo.im/aZtnO
-彩虹e,http://s.mrw.so/7DlBI
+彩虹e,http://s.mrw.so/aeQSZ
 彩虹k,http://s.mrw.so/aZtoi
 彩虹电影,http://suo.im/cuIoU
 极限电影,http://suo.im/aD7Ry
@@ -41,7 +40,7 @@ pigoo,https://luong.utako.moe/pigoo/index.m3u8
 彩虹e,http://s.mrw.so/7DlBI
 彩虹e,http://mtw.so/5NweOs
 彩虹电影,http://suo.im/9sOLD
-极限电影,http://suo.im/aD7Ry
+
 
 
 
