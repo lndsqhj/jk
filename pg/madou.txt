@@ -17,9 +17,23 @@
 
 
 松视彩虹,#genre#
+
+松视1,http://ali.hlspull.yximgs.com/live/a5679f51a7e611ed1e71b2b1e94d3c84.flv
+松视2,http://ali.hlspull.yximgs.com/live/9a2e36c41fefc7fd157d31092c39debb.flv
+松视3,http://ali.hlspull.yximgs.com/live/82f8cd9943027dcb483a06984a97c366.flv
+彩虹e,http://ali.hlspull.yximgs.com/live/95706896698af22f2d8622465044c3ce.flv
+彩虹k,http://ali.hlspull.yximgs.com/live/6b4b2afc1ecb140725f7191bba61c7a6.flv
+彩虹电影,http://ali.hlspull.yximgs.com/live/1adc8357f497878e4ac2e4330bc10f53.flv
+玩美,http://ali.hlspull.yximgs.com/live/64446ca29bbdaa2973489777dffd8f5c.flv
+惊艳,http://ali.hlspull.yximgs.com/live/e154feae1c8f17ed9c64c02143de9f3f.flv
+香蕉,http://ali.hlspull.yximgs.com/live/d02481e862497db6f75cff3ac9a2eeb1.flv
+极限,http://ali.hlspull.yximgs.com/live/d112949a7a032c870f8377890b9f4db7.flv
+HAPPY,http://ali.hlspull.yximgs.com/live/21adcec8bfd725bde6ee44400a27d641.flv
+
+
 松视1,http://suo.im/aeQTj
+松视2,http://suo.im/aeQT9
 松视2,http://mtw.so/6pAjsB
-松视3,http://suo.im/aeQT9
 香蕉,http://s.mrw.so/bK5Rb
 惊艳1,http://suo.im/dfkTT
 惊艳2,http://b.mtw.so/6pAjsB
@@ -33,13 +47,20 @@ pigoo,https://luong.utako.moe/pigoo/index.m3u8
 pigoo,http://s.mrw.so/7DlBI
 
 松视1,http://suo.im/c4FP2
-松视2,http://mtw.so/6pAjsB
 松视3,http://suo.im/9wiS2
 香蕉,http://s.mrw.so/94E7W
 潘多拉,http://suo.im/6TuSG
 惊艳2,http://suo.im/8odLv
 彩虹e,http://mtw.so/5NweOs
 彩虹电影,http://suo.im/9sOLD
+
+
+日本映画,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+東映,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d
+東映,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+NECO,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+FEMJOY,http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6212/index.m3u8
+ZOOM,http://185.236.229.62:9981/play/a02a
 
 
 
