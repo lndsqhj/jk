@@ -30,6 +30,7 @@
 极限电影,http://suo.im/aD7Ry
 HAPPY,http://suo.im/7emO2
 pigoo,https://luong.utako.moe/pigoo/index.m3u8
+pigoo,http://s.mrw.so/7DlBI
 
 松视1,http://suo.im/c4FP2
 松视2,http://mtw.so/6pAjsB
@@ -37,7 +38,6 @@ pigoo,https://luong.utako.moe/pigoo/index.m3u8
 香蕉,http://s.mrw.so/94E7W
 潘多拉,http://suo.im/6TuSG
 惊艳2,http://suo.im/8odLv
-彩虹e,http://s.mrw.so/7DlBI
 彩虹e,http://mtw.so/5NweOs
 彩虹电影,http://suo.im/9sOLD
 
@@ -73,6 +73,31 @@ Xvideo 10,http://p2.hostinggonemoreso1.com:2082/Tourobox1-O9q40nOWut/a4AawUn0rg/
 CCAV6,https://vip4.lbbf9.com/20250121/BdeiuobG/index.m3u8
 CCAV6,https://vip4.lbbf9.com/20250117/FYQMkins/index.m3u8
 CCAV6,https://jinpinxm.com/20240804/l7CmmmJt/index.m3u8
+
+
+花花兔子🐰,http://rhsbjv7k.tvclub.xyz/iptv/NVXWNPAY4LHG8S/6242/index.m3u8
+花花兔子🐰,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6242/index.m3u8
+花花兔子🐰🌸,http://rhsbjv7k.tvclub.xyz/iptv/NVXWNPAY4LHG8S/527/index.m3u8
+花花兔子🐰🌸,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/527/index.m3u8
+
+花花兔子🐰,http://rhsbjv7k.tvclub.xyz/iptv/NVXWNPAY4LHG8S/6242/index.m3u8
+花花兔子🐰,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6242/index.m3u8
+花花兔子🐰,http://rhsbjv7k.tvclub.xyz/iptv/TVGXTE68LZGQWS/6242/index.m3u8
+花花兔子🐰,http://v5yxxgnc.ottclub.xyz/iptv/SKRMAACV4QDM4F/6242/index.m3u8
+花花兔子🐰,http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6242/index.m3u8
+花花兔子🐰,http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6242/index.m3u8
+花花兔子🐰,http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6242/index.m3u8
+花花兔子🐰🌸,http://rhsbjv7k.tvclub.xyz/iptv/NVXWNPAY4LHG8S/527/index.m3u8
+花花兔子🐰🌸,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/527/index.m3u8
+花花兔子🐰🌸,http://rhsbjv7k.tvclub.xyz/iptv/TVGXTE68LZGQWS/527/index.m3u8
+
+花花公子R1,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6280/index.m3u8
+花花公子R2,https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10265.m3u8
+花花公子R3,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12135/index.m3u8
+花花公子R3,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
+
+
 
 
 HUST,http://178.219.128.68:64888/HUSTHD?user-ADMIR-MUJKANOVIC-SUPAK
