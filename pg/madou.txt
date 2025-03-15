@@ -9,16 +9,20 @@
 快手小姐姐1,https://sp.4n2.cn/?api=xjj
 快手小姐姐2,https://sp.4n2.cn/?api=tm
 快手小姐姐3,https://sp.4n2.cn/?api=sw
-韩国美女EP1,https://pixeldrain.com/api/file/5FiysHSH
-韩国美女EP2,https://pixeldrain.com/api/file/4eZaoRvt
-韩国美女EP3,https://pixeldrain.com/api/file/TRDR9vL7
-韩国美女EP4,https://pixeldrain.com/api/file/wi9euaoZ
+Jinrip美女1,https://pixeldrain.com/api/file/5FiysHSH
+Jinrip美女2,https://pixeldrain.com/api/file/4eZaoRvt
+Jinrip美女3,https://pixeldrain.com/api/file/TRDR9vL7
+Jinrip美女4,https://pixeldrain.com/api/file/wi9euaoZ
+Jinrip美女5,https://vip3.lbbf9.com/20240815/IahGqua5/index.m3u8
+Jinrip美女6,https://vip3.lbbf9.com/20240930/bbKPXUs6/index.m3u8
+Jinrip美女7,https://vip3.lbbf9.com/20240930/gdihb59R/index.m3u8
+Jinrip美女8,https://vip3.lbbf9.com/20240930/Xod8esy2/index.m3u8
+Jinrip美女9,https://vip3.lbbf9.com/20240930/ZxbE9E7s/index.m3u8
+
 
 
 
 松视彩虹,#genre#
-
-
 
 
 松视1,http://suo.im/aeQTj
