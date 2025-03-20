@@ -53,30 +53,19 @@ pigoo,https://luong.utako.moe/pigoo/index.m3u8
 彩虹电影,http://suo.im/9sOLD
 
 
-惊艳台,http://125.227.210.55:8156/VideoInput/play.ts
-香蕉台,http://125.227.210.55:8159/VideoInput/play.ts
-奥视1台,http://125.227.210.55:8201/VideoInput/play.ts
-奥视2台,http://125.227.210.55:8203/VideoInput/play.ts
-奥视3台,http://125.227.210.55:8205/VideoInput/play.ts
-惊艳台,http://203.75.191.130:8156/VideoInput/play.ts
+
 香蕉台,http://203.75.191.130:8159/VideoInput/play.ts
+香蕉台,http://125.227.210.55:8159/VideoInput/play.ts
+惊艳台,http://125.227.210.55:8156/VideoInput/play.ts
+惊艳台,http://203.75.191.130:8156/VideoInput/play.ts
+奥视1台,http://125.227.210.55:8201/VideoInput/play.ts
 奥视1台,http://203.75.191.130:8201/VideoInput/play.ts
+奥视2台,http://125.227.210.55:8203/VideoInput/play.ts
 奥视2台,http://203.75.191.130:8203/VideoInput/play.ts
+奥视3台,http://125.227.210.55:8205/VideoInput/play.ts
 奥视3台,http://203.75.191.130:8205/VideoInput/play.ts
-惊艳台,http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
-香蕉台,http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
-潘多拉台,http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
 
 
-惊艳台T,http://18.svi-studio.com:80/live/652484888807/195449585962/1.m3u8
-惊艳台T,http://18.svi-studio.com:80/live/091271435055/841916267544/1.m3u8
-惊艳台T,http://18.svi-studio.com:80/live/378283219362/918313032809/1.m3u8
-惊艳台T,http://18.svi-studio.com:80/live/824248886026/865501635027/1.m3u8
-惊艳台T,http://18.svi-studio.com:80/live/176844830209/558261845324/1.m3u8
-惊艳台T,http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
-惊艳台T,http://18.svi-studio.com:80/live/346356153167/782875691212/1.m3u8
-惊艳台T,http://18.svi-studio.com:80/live/875994180836/930699661147/1.m3u8
-惊艳台T,http://18.svi-studio.com:80/live/426804892399/739490745427/1.m3u8
 香蕉台T,http://18.svi-studio.com:80/live/652484888807/195449585962/4.m3u8
 香蕉台T,http://18.svi-studio.com:80/live/378283219362/918313032809/4.m3u8
 香蕉台T,http://18.svi-studio.com:80/live/824248886026/865501635027/4.m3u8
@@ -126,6 +115,16 @@ pigoo,https://luong.utako.moe/pigoo/index.m3u8
 松视3台T,http://18.svi-studio.com:80/live/917952932058/953281067271/20205.m3u8
 松视3台T,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
 松视3台T,http://18.svi-studio.com:80/live/091271435055/841916267544/20205.m3u8
+
+惊艳台T,http://18.svi-studio.com:80/live/652484888807/195449585962/1.m3u8
+惊艳台T,http://18.svi-studio.com:80/live/091271435055/841916267544/1.m3u8
+惊艳台T,http://18.svi-studio.com:80/live/378283219362/918313032809/1.m3u8
+惊艳台T,http://18.svi-studio.com:80/live/824248886026/865501635027/1.m3u8
+惊艳台T,http://18.svi-studio.com:80/live/176844830209/558261845324/1.m3u8
+惊艳台T,http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
+惊艳台T,http://18.svi-studio.com:80/live/346356153167/782875691212/1.m3u8
+惊艳台T,http://18.svi-studio.com:80/live/875994180836/930699661147/1.m3u8
+惊艳台T,http://18.svi-studio.com:80/live/426804892399/739490745427/1.m3u8
 
 
 
