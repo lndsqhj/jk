@@ -25,7 +25,8 @@ Jinrip美女9,https://vip3.lbbf9.com/20240930/ZxbE9E7s/index.m3u8
 松视彩虹,#genre#
 
 松视1,http://suo.im/aeQTj
-松视2,http://suo.im/aeQT9
+松视2,http://mtw.so/6pAjsB
+松视3,http://suo.im/aeQT9
 松视3,http://suo.im/9wiS2
 松视4,http://b.mtw.so/5zCWag
 香蕉,http://s.mrw.so/bK5Rb
@@ -36,8 +37,9 @@ Jinrip美女9,https://vip3.lbbf9.com/20240930/ZxbE9E7s/index.m3u8
 彩虹电影,http://suo.im/cuIoU
 极限电影,http://suo.im/aD7Ry
 HAPPY,http://suo.im/7emO2
-pigoo,https://luong.utako.moe/pigoo/index.m3u8
 pigoo,http://s.mrw.so/7DlBI
+pigoo,https://luong.utako.moe/pigoo/index.m3u8
+
 
 
 松视1,http://suo.im/c4FP2
@@ -50,9 +52,6 @@ pigoo,http://s.mrw.so/7DlBI
 惊艳,http://suo.im/8odLv
 彩虹e,http://mtw.so/5NweOs
 彩虹电影,http://suo.im/9sOLD
-
-
-
 
 
 
