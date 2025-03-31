@@ -131,7 +131,7 @@ NECO,https://stream02.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m
 
 
 
-🔞欧美剧,#genre#
+斯巴达克斯,#genre#
 斯巴达克斯第一季1,https://v.cdnlz20.com/20240428/6158_f9665afe/index.m3u8
 斯巴达克斯第一季2,https://v.cdnlz20.com/20240428/6159_85cdafdb/index.m3u8
 斯巴达克斯第一季3,https://v.cdnlz20.com/20240428/6160_cb82525a/index.m3u8
