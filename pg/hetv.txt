@@ -783,6 +783,7 @@ CCTV17,http://227w9f5104.zicp.fun:35455/gaoma/cctv17.m3u8
 
 
 卫视频道,#genre#
+北京4K,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1743116687&sign=b4a8a226281ca3b86202976891eab44a
 北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1743494347&sign=37d8f4e72b380f24419f7b0b37fbb292
 浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1743494368-xlqovm11bv8ts6tm8dpgwlr8b2v7sd9l-0-b07b1876bea393160dd78ddd84a271c2
 东方卫视,https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1743570005-950858904799460ba505cbd2e586879e-0-15bac18d35b5e1b99bd5e77c6bbaf358
