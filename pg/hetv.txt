@@ -12,6 +12,11 @@
 舌尖上的中国第2季,https://www.goodiptv.club/yy/1354930943
 舌尖上的中国第2季,https://lunbo.freetv.top/yy/1354930943
 1905电影网,http://150.138.77.132:10037/1905电影网.php?id=1905
+
+CHC影迷电影,http://ndnas.top:3300/udp/225.1.4.207:1260?
+​CHC动作电影,http://ndnas.top:3300/udp/225.1.4.208:1261
+​CHC家庭影院,http://ndnas.top:3300/udp/225.1.4.209:1262?
+
 CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://180.213.174.225:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -20,6 +25,12 @@ CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&play
 CHC影迷电影,http://www.lizhinas.top:1009/rtp/239.252.219.83:5140
 CHC动作电影,http://www.lizhinas.top:1009/rtp/239.252.219.85:5140
 CHC家庭影院,http://www.lizhinas.top:1009/rtp/239.252.219.84:5140
+
+
+
+
+
+
 
 
 
