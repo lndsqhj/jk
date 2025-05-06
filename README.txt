@@ -6,7 +6,6 @@ https://gh.tryxd.cn/
 https://gh-proxy.com/
 https://ghfast.top/
 https://github.moeyy.xyz/
-https://ghp.xptvhelper.link/
 https://gt.uczyw.com/
 
 ****************************************************************
