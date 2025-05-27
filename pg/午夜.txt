@@ -1,17 +1,17 @@
 午夜松视,#genre#
 
 #时效源
-pigoo,http://ali.hlspull.yximgs.com:80/live/21321932bacf22922c50276754388f97.flv
-极限,http://ali.hlspull.yximgs.com:80/live/3b568489ca9468a809eb301b6fc59ec0.flv
-Happy,http://ali.hlspull.yximgs.com:80/live/77ecc3720b05bebb58c3f682bfa8709b.flv
-香蕉,http://ali.hlspull.yximgs.com:80/live/30689b5af709adb2a0a426c1b8e5fe2d.flv
-惊艳,http://ali.hlspull.yximgs.com:80/live/5d927ab2b510c4e1a9db5d33a870bde4.flv
-玩美,http://ali.hlspull.yximgs.com:80/live/5a8e7487cccdd048f421696322abf7df.flv
-彩虹电影,http://ali.hlspull.yximgs.com:80/live/f6ce2691c6f22d6cbaa2d6202fa9f8ae.flv
-彩虹k,http://ali.hlspull.yximgs.com:80/live/90f07368745e5207ef4e3c92f1bfa729.flv
-彩虹e,http://ali.hlspull.yximgs.com:80/live/de2f6358478d06efd4e976bea062e382.flv
-松视3,http://ali.hlspull.yximgs.com:80/live/b286bf3078eaca4919ab7d38c9f6f514.flv
-松视1,http://ali.hlspull.yximgs.com:80/live/6f96baaef0cedfde503f5b11258bc62e.flv
+pigoo,http://ali.hlspull.yximgs.com:80/live/235f4fdf4647f917052cc99a466c89c6.flv
+极限,http://ali.hlspull.yximgs.com:80/live/9c5225e5f3f005a3f77da0166f3e5db4.flv
+Happy,http://ali.hlspull.yximgs.com:80/live/eae555aaff9a9be74babaf2269e493d3.flv
+香蕉,http://ali.hlspull.yximgs.com:80/live/ff774e2be6a42d7d236d30c9bf30ec4f.flv
+惊艳,http://ali.hlspull.yximgs.com:80/live/1abcf27c538a3252cf3ea1244938bc48.flv
+玩美,http://ali.hlspull.yximgs.com:80/live/72fb3c6551504c947277906c766352c5.flv
+彩虹电影,http://ali.hlspull.yximgs.com:80/live/cd66f962dc5bfaeb9c59658a9e6475b5.flv
+彩虹k,http://ali.hlspull.yximgs.com:80/live/643911581f37fff06a9fd7db0af4a40d.flv
+彩虹e,http://ali.hlspull.yximgs.com:80/live/f6abd0c0830b0a2a6c9008530bacf371.flv
+松视3,http://ali.hlspull.yximgs.com:80/live/356b3616406cfe7e2d19f457f94a90af.flv
+松视1,http://ali.hlspull.yximgs.com:80/live/9c98b9f7dd238be0b9c8096edaceb176.flv
 
 #秘密花园
 松视1,http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
