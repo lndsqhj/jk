@@ -1,17 +1,19 @@
 午夜松视,#genre#
 
 #时效源
-pigoo,http://ali.hlspull.yximgs.com:80/live/8122d46003c90571609eb1a28c16a62c.flv
-极限,http://ali.hlspull.yximgs.com:80/live/d2f754fc70e8a8ae3e4ee9d1ada5deff.flv
-Happy,http://ali.hlspull.yximgs.com:80/live/28cef181e94e1c10c8ba15d3c27bbd77.flv
-香蕉,http://ali.hlspull.yximgs.com:80/live/2932d2cd9b8281854a9f047d1aeb8ee8.flv
-惊艳,http://ali.hlspull.yximgs.com:80/live/4260712fd5dae0ff5dea473bf6385d5d.flv
-玩美,http://ali.hlspull.yximgs.com:80/live/6c41fa25ad7165da4d389d6025c79cf1.flv
-彩虹电影,http://ali.hlspull.yximgs.com:80/live/ccb7fdad49010dbb9ee9ba1e272bc214.flv
-彩虹k,http://ali.hlspull.yximgs.com:80/live/91a2f0e48896426cd60b1cffde29919d.flv
-彩虹e,http://ali.hlspull.yximgs.com:80/live/162894fb22a4c787c54f9a9c9d7aa55b.flv
-松视3,http://ali.hlspull.yximgs.com:80/live/d2ad6b651174c9d412fd58bfbe9a56d3.flv
-松视1,http://ali.hlspull.yximgs.com:80/live/c448883fc5d84df3708dfb6584be4ffd.flv
+#不定时更新
+#定时开播上午0600-1130下午1300-1700晚上1830-0200
+极限,http://ali.hlspull.yximgs.com:80/live/ccfc17040c64846f0a5b72cb2b95d045.flv
+pigoo,http://ali.hlspull.yximgs.com:80/live/d09e7f4c654da0ddd33a6df54917e7bd.flv
+Happy,http://ali.hlspull.yximgs.com:80/live/8d515687c529135edaa4d17484c0ef35.flv
+香蕉,http://ali.hlspull.yximgs.com:80/live/ffbc6fe0d00feb5126fbf42fd228bc07.flv
+惊艳,http://ali.hlspull.yximgs.com:80/live/cd52b48fa0e2536e1fee661a44daad1f.flv
+玩美,http://ali.hlspull.yximgs.com:80/live/230b35bc3d2d0488c4dc176e489db998.flv
+彩虹电影,http://ali.hlspull.yximgs.com:80/live/6c2b1b8a3d53a7a3f5cb669d6eb56cb6.flv
+彩虹k,http://ali.hlspull.yximgs.com:80/live/88ba048bb685c0515ab79f13d2bd52fa.flv
+彩虹e,http://ali.hlspull.yximgs.com:80/live/36015d2686b663c0dd62af32ecd4fde1.flv
+松视3,http://ali.hlspull.yximgs.com:80/live/2313451968ea97021c9fb4e02d0b3771.flv
+松视1,http://ali.hlspull.yximgs.com:80/live/f5100795a7338779fdfbff9f73ec72c9.flv
 
 #秘密花园
 松视1,http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
