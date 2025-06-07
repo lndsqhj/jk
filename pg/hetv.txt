@@ -43,6 +43,24 @@ CHC家庭影院,http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0i
 
 
 央视咪咕,#genre#
+
+CCTV1,http://8.138.7.223/tv/ptbtv.php?id=27
+CCTV2,http://8.138.7.223/tv/ptbtv.php?id=28CCTV3,http://8.138.7.223/tv/ptbtv.php?id=29
+CCTV4,http://8.138.7.223/tv/ptbtv.php?id=30
+CCTV5,http://8.138.7.223/tv/ptbtv.php?id=31CCTV6,http://8.138.7.223/tv/ptbtv.php?id=32
+CCTV7,http://8.138.7.223/tv/ptbtv.php?id=28
+CCTV8,http://8.138.7.223/tv/ptbtv.php?id=29
+CCTV9,http://8.138.7.223/tv/ptbtv.php?id=30
+CCTV10,http://8.138.7.223/tv/ptbtv.php?id=31
+CCTV11,http://8.138.7.223/tv/ptbtv.php?id=32
+CCTV12,http://8.138.7.223/tv/ptbtv.php?id=33
+CCTV13,http://8.138.7.223/tv/ptbtv.php?id=34
+CCTV14,http://8.138.7.223/tv/ptbtv.php?id=35
+CCTV15,http://8.138.7.223/tv/ptbtv.php?id=36
+CCTV16,http://8.138.7.223/tv/ptbtv.php?id=37
+CCTV17,http://8.138.7.223/tv/ptbtv.php?id=38
+
+
 CCTV1,http://sport.pendy.dpdns.org/migu/608807420?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV2,http://sport.pendy.dpdns.org/migu/631780532?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV3,http://sport.pendy.dpdns.org/migu/624878271?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
